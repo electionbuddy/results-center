@@ -18,7 +18,7 @@ You will implement a single public endpoint and (optionally) a minimal HTML view
 
 ## Reference Materials
 
-Check the [Nexus](https://github.com/electionbuddy/results-center/wiki/Nexus) for some extra context and useful information!
+Check the [Wiki](https://github.com/electionbuddy/results-center/wiki) for some extra context and useful information!
 
 ---
 
